@@ -1,12 +1,12 @@
 {
-  "main.js": "/react-react_flix/static/js/main.7de0268d.chunk.js",
-  "main.js.map": "/react-react_flix/static/js/main.7de0268d.chunk.js.map",
-  "static/js/1.4813b396.chunk.js": "/react-react_flix/static/js/1.4813b396.chunk.js",
-  "static/js/1.4813b396.chunk.js.map": "/react-react_flix/static/js/1.4813b396.chunk.js.map",
-  "runtime~main.js": "/react-react_flix/static/js/runtime~main.03490c17.js",
-  "runtime~main.js.map": "/react-react_flix/static/js/runtime~main.03490c17.js.map",
-  "static/media/noPosterSmall.png": "/react-react_flix/static/media/noPosterSmall.cbe915bf.png",
-  "index.html": "/react-react_flix/index.html",
-  "precache-manifest.3edc1b08dde3474b157b0f4f1e482277.js": "/react-react_flix/precache-manifest.3edc1b08dde3474b157b0f4f1e482277.js",
-  "service-worker.js": "/react-react_flix/service-worker.js"
+  "main.js": "/react_flix/static/js/main.7de0268d.chunk.js",
+  "main.js.map": "/react_flix/static/js/main.7de0268d.chunk.js.map",
+  "static/js/1.dd0971e9.chunk.js": "/react_flix/static/js/1.dd0971e9.chunk.js",
+  "static/js/1.dd0971e9.chunk.js.map": "/react_flix/static/js/1.dd0971e9.chunk.js.map",
+  "runtime~main.js": "/react_flix/static/js/runtime~main.c3a964f9.js",
+  "runtime~main.js.map": "/react_flix/static/js/runtime~main.c3a964f9.js.map",
+  "static/media/noPosterSmall.png": "/react_flix/static/media/noPosterSmall.cbe915bf.png",
+  "index.html": "/react_flix/index.html",
+  "precache-manifest.39b74f5b8104d6dad5192434dd654a25.js": "/react_flix/precache-manifest.39b74f5b8104d6dad5192434dd654a25.js",
+  "service-worker.js": "/react_flix/service-worker.js"
 }
